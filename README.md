@@ -3,7 +3,7 @@
 My Name is **Muhammad Ravi**.<br>
 
 🚀 Undergraduate Student at Universitas Muhammadiyah Riau | Passionate about Web & Mobile App Development <br/>
-💻 Tech Enthusiast | Skilled in JavaScript, CSS, HTML, PHP, Kotlin, Python, PostgreSQL, MySQL <br/>
+💻 Tech Stack | Skilled in JavaScript, CSS, HTML, PHP, Kotlin, Python, PostgreSQL, MySQL <br/>
 🛠️ Frameworks & Tools: Laravel, Tailwind, ReactJS, JQuery, Codeigniter, ExpressJS, Bootstrap <br/>
 🤖 Exploring AI Engineering | Always curious about the intersection of technology and innovation <br/>
 
