@@ -1,8 +1,8 @@
-# Halo All! 
+# Halo Everyone! 
 
-Perkenalkan nama saya **Muhammad Ravi**.<br>
+My Name is **Muhammad Ravi**.<br>
 
-I am a undergraduate student at Universitas Muhammadiyah Riau, specializing in web development. Proficient in JavaScript, CSS, HTML, PHP, and MySQL, with hands-on experience in utilizing Laravel, Tailwind, and Bootstrap. I also have a keen interest and practical experience in UI/UX and graphic design, actively involved in managing the social media for Generasi Baru Indonesia at Universitas Muhammadiyah Riau. Open to collaboration and new opportunities in the fields of web development and graphic design. <br>
+I am a undergraduate student at Universitas Muhammadiyah Riau, specializing in Web Development and Mobile App Development. Proficient in JavaScript, CSS, HTML, PHP, Kotlin, Python, and MySQL, with hands-on experience in utilizing Laravel, Tailwind, ReactJs, JQuery, Codeigniter, and Bootstrap. I also have interest in AI engineering <br>
 
 ### Tech Stack
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
