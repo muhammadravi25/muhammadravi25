@@ -2,10 +2,10 @@
 
 My Name is **Muhammad Ravi**.<br>
 
-🚀 Undergraduate Student at Universitas Muhammadiyah Riau | Passionate about Web & Mobile App Development <br/>
-💻 Tech Stack | Skilled in JavaScript, CSS, HTML, PHP, Kotlin, Python, PostgreSQL, and MySQL <br/>
-🛠️ Frameworks & Tools: Laravel, Tailwind, ReactJS, JQuery, Codeigniter, ExpressJS, and Bootstrap <br/>
-🤖 Exploring AI Engineering | Always curious about the intersection of technology and innovation <br/>
+🚀 Undergraduate Student at Universitas Muhammadiyah Riau | Passionate about Web & Mobile App Development. <br/>
+💻 Tech Stack | Skilled in JavaScript, CSS, HTML, PHP, Kotlin, Python, PostgreSQL, and MySQL. <br/>
+🛠️ Frameworks & Tools: Laravel, Tailwind, ReactJS, JQuery, Codeigniter, ExpressJS, and Bootstrap. <br/>
+🤖 Exploring AI Engineering | Always curious about the intersection of technology and innovation. <br/>
 
 I’m on a mission to build seamless, user-friendly applications and explore the limitless possibilities of AI. Let’s connect and create something amazing! 🌟
 
@@ -31,8 +31,8 @@ I’m on a mission to build seamless, user-friendly applications and explore the
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/muhammadravi25">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadravi25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadravi25&layout=compact&langs_count=8&theme=algolia"/>
+  <img decoding="async" loading="lazy" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadravi25&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
+  <img decoding="async" loading="lazy" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadravi25&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
 
