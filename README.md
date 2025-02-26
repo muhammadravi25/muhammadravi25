@@ -31,8 +31,8 @@ I’m on a mission to build seamless, user-friendly applications and explore the
 ### Github Statistic
 <p align="left">
 <a href="https://github.com/muhammadravi25">
-  <img decoding="async" loading="lazy" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadravi25&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
-  <img decoding="async" loading="lazy" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadravi25&layout=compact&langs_count=10&theme=algolia"/>
+  <img decoding="async" loading="lazy" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadravi25&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
+  <img decoding="async" loading="lazy" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadravi25&layout=compact&langs_count=10&theme=algolia"/>
 </a>
 </p>
 
