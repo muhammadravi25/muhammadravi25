@@ -12,6 +12,7 @@ I’m on a mission to build seamless, user-friendly applications and explore the
 ### Tech Stack
   <a href="#"><img height="25" title="HTML" src="https://cdn.simpleicons.org/html5?viewbox=auto" /></a>
   <a href="#"><img height="25" title="CSS" src="https://cdn.simpleicons.org/css3?viewbox=auto" /></a>
+  <a href="#"><img height="25" title="PHP" src="https://cdn.simpleicons.org/php?viewbox=auto" /></a>
   <a href="#"><img height="25" title="JavaScript" src="https://cdn.simpleicons.org/javascript?viewbox=auto" /></a>
   <a href="#"><img height="25" title="Python" src="https://cdn.simpleicons.org/python?viewbox=auto" /></a>
   <a href="#"><img height="25" title="Kotlin" src="https://cdn.simpleicons.org/kotlin?viewbox=auto" /></a>
