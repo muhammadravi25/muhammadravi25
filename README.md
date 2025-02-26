@@ -30,12 +30,14 @@ I’m on a mission to build seamless, user-friendly applications and explore the
  <a href="#"><img height="25" title="Bootstrap" src="https://cdn.simpleicons.org/bootstrap?viewbox=auto" /></a>
  
 ### Github Statistic
-<p align="left">
-<a href="https://github.com/muhammadravi25">
-  <img decoding="async" loading="lazy" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadravi25&show_icons=true&theme=algolia&include_all_commits=true&count_private=false"/>
-  <img decoding="async" loading="lazy" width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadravi25&layout=compact&langs_count=12&theme=algolia"/>
-</a>
-</p>
+## Most Used Languages Stats:
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadravi25&theme=cobalt)](https://github.com/muhammadravi25/github-readme-stats)
+
+
+## GitHub Stats Card
+
+[![Carson3377's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadravi25&show_icons=true)](https://github.com/muhammadravi25/github-readme-stats)
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/ravi272/">LinkedIn</a>
