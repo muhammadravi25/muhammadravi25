@@ -37,7 +37,7 @@ I’m on a mission to build seamless, user-friendly applications and explore the
 
 ## GitHub Stats Card
 
-[![Carson3377's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadravi25&show_icons=true)](https://github.com/muhammadravi25/github-readme-stat)
+[![Carson3377's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadravi25&show_icons=true)](https://github.com/muhammadravi25/github-readme-stats)
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/ravi272/">LinkedIn</a>
