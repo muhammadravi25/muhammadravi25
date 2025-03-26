@@ -32,12 +32,12 @@ I’m on a mission to build seamless, user-friendly applications and explore the
 ### Github Statistic
 ## Most Used Languages Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadravi25&theme=cobalt)](https://github.com/muhammadravi25/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadravi25)](https://github.com/muhammadravi25/github-readme-stats)
 
 
 ## GitHub Stats Card
 
-[![Carson3377's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadravi25&show_icons=true)](https://github.com/muhammadravi25/github-readme-stats)
+[![Carson3377's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadravi25&show_icons=true)](https://github.com/muhammadravi25/github-readme-stat)
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/ravi272/">LinkedIn</a>
