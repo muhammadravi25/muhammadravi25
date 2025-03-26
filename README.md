@@ -32,11 +32,11 @@ I’m on a mission to build seamless, user-friendly applications and explore the
 ### Github Statistic
 ## Most Used Languages Stats:
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadravi25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadravi25&layout=compact&langs_count=8&theme=algolia"/>
   
 
 ## GitHub Stats Card
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadravi25&layout=compact&langs_count=8&theme=algolia"/>
+<img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadravi25&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 
 ### Reach me on
 - <a href="https://www.linkedin.com/in/ravi272/">LinkedIn</a>
