@@ -16,7 +16,7 @@ I’m on a mission to build seamless, user-friendly applications and explore the
   <a href="#"><img height="25" title="JavaScript" src="https://cdn.simpleicons.org/javascript?viewbox=auto" /></a>
   <a href="#"><img height="25" title="Python" src="https://cdn.simpleicons.org/python?viewbox=auto" /></a>
   <a href="#"><img height="25" title="Kotlin" src="https://cdn.simpleicons.org/kotlin?viewbox=auto" /></a>
-  <a href="#"><img height="25" title="MySQL" src="[https://cdn.simpleicons.org/mysql?viewbox=auto](https://cdn.simpleicons.org/mysql?viewbox=auto)" /></a>
+  <a href="#"><img height="25" title="MySQL" src="https://cdn.simpleicons.org/mysql?viewbox=auto" /></a>
   <a href="#"><img height="25" title="PostgreSQL" src="https://cdn.simpleicons.org/postgresql?viewbox=auto" /></a>
 
 ### Frameworks & Tools
